@@ -2,5 +2,5 @@ hello! git
 add text
 add clone karano hensyu
 
-
 インデックスの状態を記録する
+リモートリポジトリの内容を取得する
