@@ -1,2 +1,3 @@
 hello! git
 add text
+add clone karano hensyu
