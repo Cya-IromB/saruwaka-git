@@ -1,3 +1,6 @@
 hello! git
 add text
 add clone karano hensyu
+
+
+インデックスの状態を記録する
