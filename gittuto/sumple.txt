@@ -1,3 +1,5 @@
 hello! git
 add text
 add clone karano hensyu
+
+リモートリポジトリの内容を取得する
